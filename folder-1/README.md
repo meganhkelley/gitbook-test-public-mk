@@ -6,4 +6,5 @@ this is the readme
 
 Weird that this image came through upside down but ok ...  what's going to happen when I save this? Will it be able to sync with GitHub? 
 
-Yes it did save the image in GitBook, interesting.
+Yes it did! 
+
