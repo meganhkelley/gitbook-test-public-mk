@@ -1,2 +1,2 @@
-# research-history
+# Research History
 
