@@ -8,3 +8,4 @@ Weird that this image came through upside down but ok ...  what's going to happe
 
 Yes it did! 
 
+And here is a new line that I will commit to master in GitHub.
