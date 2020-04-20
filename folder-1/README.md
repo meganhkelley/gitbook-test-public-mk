@@ -1,6 +1,8 @@
 # Welcome To VSP
 
 this is the readme
+ 
+now that I've added some new subfolders, let's see if we can get them to show up in GitBook.
 
 ![](../.gitbook/assets/img_2198.JPG)
 
