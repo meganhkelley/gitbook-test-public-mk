@@ -17,8 +17,6 @@ You'll need access to these tools if you need:
 
 These internal tools are available on the `vetsgov-internal` domain and are being transitioned over to the vfs.va.gov domain. The `vetsgov-internal` domain is **only accessible while your system is running a SOCKS proxy locally**. The others are available both on SOCKS and on the internal VA network. Your SOCKS proxy will tunnel traffic over a secure channel to vets.gov servers, providing access to:
 
-
-
 | Name | vetsgov-internal link | vfs.va.gov link |
 | :--- | :--- | :--- |
 | Jenkins |  | [http://jenkins.vfs.va.gov](http://jenkins.vfs.va.gov) |
@@ -209,25 +207,26 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 
 1. Install Proxy SwitchyOmega.
 
-   [https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) [https://addons.mozilla.org/en-US/firefox/addon/switchyomega/](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)
+[https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) [https://addons.mozilla.org/en-US/firefox/addon/switchyomega/](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)
 
 2. Configure the `proxy` profile like this:
 
-   ![](images/switchy-omega-config-1.png)
+![](.gitbook/assets/switchy-omega-config-1.png)
 
 3. Configure the `auto switch` profile like this:
 
-   ![](images/switchy-omega-config-2.png)
+![](.gitbook/assets/switchy-omega-config-2%20%281%29.png)
 
 4. In Chrome's menu bar, click on the proxy app and change the setting to "auto switch":
 
-   ![](images/switch-omega-auto-switch.png)
+![](.gitbook/assets/switch-omega-auto-switch.png)
 
 5. Be sure to click "Apply Changes" to save your changes.
 
-   ![](images/switchy-omega-config-3.png)
+![](.gitbook/assets/switchy-omega-config-3.png)
 
 6. **Note:** You may have to uncheck a settings flag in Chrome. See [https://github.com/FelisCatus/SwitchyOmega/wiki/DNS-and-SOCKS-proxy](https://github.com/FelisCatus/SwitchyOmega/wiki/DNS-and-SOCKS-proxy).
+
 7. Check your connection by navigating to Sentry at [http://sentry.vfs.va.gov](http://sentry.vfs.va.gov).
 
 ### Socks script
