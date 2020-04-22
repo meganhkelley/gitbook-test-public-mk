@@ -14,4 +14,5 @@
     * [folder-1a-file](folder-1/folder-1a/folder-1a-file.md)
   * [Getting Started](folder-1/welcome-to-vsp.md)
 * [Test](test.md)
+* [Internal tools access](internal-tools-access.md)
 
