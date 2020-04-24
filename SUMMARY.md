@@ -3,6 +3,7 @@
 * [gitbook-test-public-mk](README.md)
 * [Megan Test](megan-test/README.md)
   * [Megan Test Page 2](megan-test/megan-test-page-2.md)
+  * [Rachael's New Baby Page](megan-test/rachaels-new-baby-page.md)
 * [Design](folder-2/README.md)
   * [Research History](folder-2/research-history.md)
 * [Welcome To VSP](folder-1/README.md)
@@ -15,4 +16,5 @@
   * [Getting Started](folder-1/welcome-to-vsp.md)
 * [Test](test.md)
 * [Internal tools access](internal-tools-access.md)
+* [Rachael's New Page](rachaels-new-page.md)
 
